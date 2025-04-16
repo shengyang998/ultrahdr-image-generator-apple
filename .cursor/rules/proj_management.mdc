@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Please ensure that the file "project_management.md" in the project’s root directory is designated as the central hub for all project management information. This file should comprehensively track project progress, document the architecture design decisions, and record the organization of file paths, along with any other relevant details. After every code modification that passes self-testing, automatically update "project_management.md" with a detailed summary of the changes, updates to project structure, and any pertinent notes. This process guarantees that when starting a new chat session in Cursor AI IDE, the development environment resumes from the exact state of the previous session, maintaining continuity and efficiency throughout the project lifecycle.
